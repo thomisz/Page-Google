@@ -1,0 +1,99 @@
+.shadowbox
+{
+width: auto;
+  border: 10px #FFFFFF solid;
+  box-shadow: 3px 3px 3px silver;
+  background-color: white;
+}
+
+header ul
+{
+display:flex;
+flex-direction: row;
+justify-content:flex-end;
+}
+
+
+ul
+{
+   list-style-type:none;
+}
+
+button
+{
+  background-color: blue;
+}
+
+header li
+{
+  margin-right: 10px
+}
+
+div
+{
+  display: flex;
+  flex-direction:row;
+  justify-content: center;
+}
+
+figure
+{
+  display: flex;
+  justify-content: center;
+}
+/* le footer ********************/
+
+
+
+footer
+{
+background-color: #F0F0F0;
+font-family: Verdana;
+font-size: small;
+margin: 40px 20px 40px 20px
+}
+
+#content
+{
+display:flex;
+}
+
+#pieddepageg ul
+{
+display:flex;
+flex-direction: row;
+justify-content:flex-start;
+padding-left: 10px
+}
+
+#pieddepaged ul
+{
+display:flex;
+flex-direction: row;
+justify-content:flex-start;
+margin-top: : 10px;
+margin-left: 500px;
+}
+
+#pieddepaged li
+{
+  margin-right: 10px;
+}
+
+#pieddepageg li
+{
+  margin-right: 10px
+}
+
+li
+{
+   list-style-type:none;
+}
+
+#content
+{
+display:flex;
+flex-direction: row;
+justify-content:flex-start;
+
+}
